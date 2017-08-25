@@ -1,0 +1,64 @@
+@font-face {
+    font-family: BEBASNEUEBOLD; /* имя шрифта для CSS правил */
+    src: url(BEBASNEUEBOLD.TTF); /* если шрифт не установлен, тогда загружаем его по указанному пути */
+}
+.div01__title{
+	font-family: BEBASNEUEBOLD !important;
+	margin: 0px !important;
+}
+.div09__list{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.div13{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.div07__list{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+.item{
+	width: auto !important;
+	margin-left: 50px;
+}
+.div06__list{
+	width: 1000px;
+}
+#container1{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+#text-position-absolute1{
+	position: absolute;
+	
+}
+.item{
+	width: 333px;
+	margin-left: 0px;
+}
+.itemPeople{
+	width: 240px !important;
+}
+#container-top{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.div09__title{
+	position: relative;
+}
+.field_option{
+	display: flex;
+}
+.b_form_content li{
+	list-style-type: none;
+}

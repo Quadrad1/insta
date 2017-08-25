@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+api.institute-bm.com	TRUE	/	FALSE	1999999999	PHPSESSID	ad43jkhkmeidqg2cq49ibrerc0
+api.institute-bm.com	TRUE	/	FALSE	1999999999	BITRIX_SM_GUEST_ID	309587
+api.institute-bm.com	TRUE	/	FALSE	1999999999	BITRIX_SM_LAST_VISIT	28.05.2017+15%3A40%3A22
+api.institute-bm.com	TRUE	/	FALSE	1999999999	BITRIX_CONVERSION_CONTEXT_ap	%7B%22ID%22%3A38%2C%22EXPIRE%22%3A1496005140%2C%22UNIQUE%22%3A%5B%5D%7D
+

@@ -1,0 +1,1606 @@
+body{background-color:white !important;}
+html{background-color:white !important;}
+.display-inline-block {
+  display: inline-block;
+  vertical-align: top;
+}
+.roboto-bold {
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+}
+.roboto-regular {
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+}
+.bebasneue-bold {
+  font-family: 'BebasNeueBold';
+  font-weight: normal;
+  font-style: normal;
+}
+.roboto-black {
+  font-family: "Roboto Black";
+  font-weight: normal;
+  font-style: normal;
+}
+.button-container-ext {
+  text-align: center;
+}
+.button-container-ext .button {
+  display: inline-block;
+  vertical-align: top;
+  width: 310px;
+  height: 67px;
+  background: #e90e9e;
+  color: #ffffff;
+  font-family: "Roboto Black";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 67px;
+  text-transform: uppercase;
+  border-bottom: 7px solid #b20f7a;
+  opacity: 0.8;
+}
+.button-container-ext .button:hover {
+  opacity: 1;
+}
+.div01 {
+  padding: 40px 0 0 0;
+  margin: 0 0 90px 0;
+}
+.div01 * {
+  max-height: 99999px;
+}
+.div01 .container {
+  background: url(../../instagram/instagram/div01.png) no-repeat 790px 55px;
+  position: relative;
+}
+.div01 .container:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.div01 .div01__type {
+  text-align: center;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 26px;
+  margin: 0 0 10px 0;
+}
+.div01 .div01__type span {
+  display: inline-block;
+  vertical-align: top;
+  background: url(../../instagram/instagram/div01-title.jpg) no-repeat 0 -3px;
+  padding: 0 3px;
+}
+.div01 .div01__title {
+  text-align: center;
+  font-family: 'BebasNeueBold';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 100px;
+  text-transform: uppercase;
+  letter-spacing: -0.005em;
+}
+.div01 .div01__start {
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 16px;
+  position: absolute;
+  right: 27px;
+  top: 33px;
+}
+.div01 .div01__left {
+  float: left;
+}
+.div01 .div-form {
+  float: right;
+  position: relative;
+  z-index: -1;
+  margin: 24px 0 0 0;
+}
+.div01 .div01__subtitle {
+  font-size: 24px;
+  line-height: 28px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  margin: 10px 0 20px 91px;
+}
+.div01 .div01__text {
+  font-size: 18px;
+  line-height: 22px;
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  margin: 0 0 0 91px;
+}
+.div01 .div01__video {
+  width: 450px;
+  height: 250px;
+  margin: 30px 0 0 40px;
+}
+.div02 {
+  background: url(../../instagram/instagram/div02.jpg) no-repeat 50% 0;
+  padding: 205px 0 0 0;
+  margin: 0 0 120px 0;
+}
+.div02 * {
+  max-height: 99999px;
+}
+.div02:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.div02 .container {
+  width: 760px;
+  margin: 0 auto;
+}
+.div02 .div02__left {
+  width: 400px;
+  float: left;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 28px;
+  line-height: 32px;
+  padding: 10px 0;
+}
+.div02 .div02__right {
+  width: 360px;
+  float: left;
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 28px;
+  line-height: 32px;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 10px 20px 20px;
+  background: url(../../instagram/instagram/div02-text.jpg) no-repeat -22px -34px;
+}
+.div03 {
+  background: url(../../instagram/instagram/div03.jpg) no-repeat 50% 110px;
+  margin: 0 0 80px 0;
+}
+.div03 * {
+  max-height: 99999px;
+}
+.div03 .div03__title {
+  font-size: 36px;
+  line-height: 38px;
+  text-align: center;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  margin: 0 0 455px 0;
+}
+.div04 {
+  margin: 0 0 110px 0;
+}
+.div04 * {
+  max-height: 99999px;
+}
+.div04 .div04__title {
+  text-align: center;
+  font-size: 36px;
+  line-height: 40px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  margin: 0 0 40px 0;
+}
+.div04 .div04__title span {
+  display: inline-block;
+  vertical-align: top;
+  padding: 5px 20px 10px;
+  background: url(../../instagram/instagram/div04-title.jpg) no-repeat 0 -13px;
+}
+.div04 .div04__list {
+  width: 800px;
+  margin: 0 auto 70px auto;
+}
+.div04 .div04__list .item {
+  padding: 20px 0 100px 30px;
+  background: url(../../instagram/instagram/div04-item1.jpg) no-repeat 0 0;
+}
+.div04 .div04__list .item .title {
+  padding: 0 10px;
+  background: url(../../instagram/instagram/div04-item1.png) no-repeat 0 -13px;
+  font-size: 26px;
+  line-height: 30px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  margin: 0 0 15px 0;
+}
+.div04 .div04__list .item .subtitle {
+  font-size: 26px;
+  line-height: 30px;
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  margin: 0 0 15px 0;
+}
+.div04 .div04__list .item .account {
+  font-size: 16px;
+  line-height: 20px;
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+}
+.div04 .div04__list .item .account span {
+  color: #006092;
+}
+.div04 .div04__list .item .account a {
+  color: #006092;
+  text-decoration: none;
+}
+.div04 .div04__list .item .account a:hover {
+  text-decoration: underline;
+}
+.div04 .div04__list .item .status {
+  font-size: 16px;
+  line-height: 20px;
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  margin: 0 0 60px 0;
+}
+.div04 .div04__list .item .text {
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 0 0 15px 0;
+}
+.div04 .div04__list .item .author:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.div04 .div04__list .item .author .image {
+  width: 71px;
+  height: 71px;
+  border-radius: 71px;
+  overflow: hidden;
+  float: left;
+  margin-right: 20px;
+}
+.div04 .div04__list .item .author .description {
+  float: left;
+  font-size: 12px;
+  line-height: 14px;
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  margin: 10px 0 0 0;
+}
+.div04 .div04__list .item.item-1 .image {
+  background: url(../../instagram/instagram/div04-author1.png) no-repeat 50% 50%;
+}
+.div04 .div04__list .item.item-2 {
+  background: url(../../instagram/instagram/div04-item2.jpg) no-repeat 100% 0;
+}
+.div04 .div04__list .item.item-2 .top {
+  padding: 0 0 0 400px;
+}
+.div04 .div04__list .item.item-2 .text {
+  padding-left: 490px;
+}
+.div04 .div04__list .item.item-2 .author {
+  padding-left: 490px;
+}
+.div04 .div04__list .item.item-2 .image {
+  background: url(../../instagram/instagram/div04-author2.png) no-repeat 50% 50%;
+}
+.div04 .div04__list .item.item-3 {
+  background: url(../../instagram/instagram/div04-item3.jpg) no-repeat 0 0;
+}
+.div04 .div04__list .item.item-3 .image {
+  background: url(../../instagram/instagram/div04-author3.png) no-repeat 50% 50%;
+}
+.div04 .div04__list .item.item-3 .subtitle {
+  margin-bottom: 45px;
+}
+.div05 {
+  margin: 0 0 100px 0;
+}
+.div05 * {
+  max-height: 99999px;
+}
+.div05 .div05__title {
+  text-align: center;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 50px;
+  line-height: 52px;
+  margin: 0 0 10px 0;
+}
+.div05 .div05__subtitle {
+  width: 570px;
+  margin: 0 auto 50px auto;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 36px;
+  line-height: 40px;
+  text-align: center;
+  padding: 10px 0;
+  background: url(../../instagram/instagram/div05-title.jpg) no-repeat 0 -10px;
+}
+.div05 .div05__slider {
+  height: 330px;
+  width: 930px;
+  margin: 0 auto 20px auto;
+  position: relative;
+}
+.div05 .div05__slider .prev {
+  width: 57px;
+  height: 57px;
+  background: url(../../instagram/instagram/div05-left.jpg) no-repeat 50% 50%;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  margin-top: -28px;
+  cursor: pointer;
+}
+.div05 .div05__slider .next {
+  width: 57px;
+  height: 57px;
+  background: url(../../instagram/instagram/div05-right.jpg) no-repeat 50% 50%;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  margin-top: -28px;
+  cursor: pointer;
+}
+.div05 .div05__slider .list {
+  width: 800px;
+  margin: 0 auto;
+  height: 330px;
+}
+.div05 .div05__slider .list .item {
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.div05 .div05__slider .list .item.active {
+  display: block;
+}
+.div05 .div05__slider .list .item.item-1 {
+  background: url(../../instagram/instagram/div05-slide1.jpg) no-repeat 50% 0;
+}
+.div05 .div05__slider .list .item.item-2 {
+  background: url(../../instagram/instagram/div05-slide2.jpg) no-repeat 50% 0;
+}
+.div05 .div05__slider .list .item.item-3 {
+  background: url(../../instagram/instagram/div05-slide3.jpg) no-repeat 50% 0;
+}
+.div05 .div05__columns {
+  text-align: center;
+  font-size: 0;
+}
+.div05 .div05__columns .column {
+  width: 260px;
+  display: inline-block;
+  vertical-align: top;
+}
+.div05 .div05__columns .column .title {
+  font-size: 26px;
+  line-height: 28px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  margin: 0 0 15px 0;
+}
+.div05 .div05__columns .column .text {
+  text-align: left;
+  padding: 0 0 0 65px;
+  font-size: 15px;
+  line-height: 22px;
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+}
+.div06 {
+  margin: 0 0 50px 0;
+}
+.div06 * {
+  max-height: 99999px;
+}
+.div06 .container {
+  padding: 0 0 300px;
+  background: url(../../instagram/instagram/div06.jpg) no-repeat 100% 100%;
+}
+.div06 .div06__title {
+  text-align: center;
+  font-size: 50px;
+  line-height: 52px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  margin: 0 0 15px 0;
+}
+.div06 .div06__list {
+  font-size: 0;
+}
+.div06 .div06__list .item {
+  display: inline-block;
+  vertical-align: top;
+  width: 33.333%;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 40px 0 40px 150px;
+}
+.div06 .div06__list .item .title {
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 20px;
+}
+.div06 .div06__list .item .text {
+  font-size: 16px;
+  line-height: 18px;
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+}
+.div06 .div06__list .item.item-1 {
+  background: url(../../instagram/instagram/div06-item1.jpg) no-repeat 0 0;
+}
+.div06 .div06__list .item.item-2 {
+  background: url(../../instagram/instagram/div06-item2.jpg) no-repeat 30px 20px;
+}
+.div06 .div06__list .item.item-3 {
+  background: url(../../instagram/instagram/div06-item3.jpg) no-repeat 20px -10px;
+}
+.div06 .div06__list .item.item-4 {
+  background: url(../../instagram/instagram/div06-item4.jpg) no-repeat 0 20px;
+}
+.div06 .div06__list .item.item-5 {
+  background: url(../../instagram/instagram/div06-item5.jpg) no-repeat 30px 0;
+}
+.div06 .div06__list .item.item-6 {
+  background: url(../../instagram/instagram/div06-item6.jpg) no-repeat 0 -20px;
+}
+.div06 .div06__list .item.item-7 {
+  background: url(../../instagram/instagram/div06-item7.jpg) no-repeat 0 -20px;
+}
+.div06 .div06__list .item.item-8 {
+  background: url(../../instagram/instagram/div06-item8.jpg) no-repeat 20px -10px;
+}
+.div06 .div06__text {
+  position: absolute;
+  top: 595px;
+  left: 200px;
+}
+.div06 .div06__text .title {
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 20px;
+}
+.div06 .div06__text .text {
+  font-size: 16px;
+  line-height: 18px;
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+}
+.div06 .div06__text.text-2 {
+  left: 820px;
+  top: 445px;
+}
+.div07 {
+  margin: 0 0 120px 0;
+}
+.div07 * {
+  max-height: 99999px;
+}
+.div07 .div07__title {
+  text-align: center;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 50px;
+  line-height: 52px;
+  margin: 0 0 25px 0;
+}
+.div07 .div07__list {
+  font-size: 0;
+  margin: 0 0 50px 0;
+}
+.div07 .div07__list .item {
+  display: inline-block;
+  vertical-align: top;
+  width: 25%;
+  padding: 200px 0 0 0;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.div07 .div07__list .item .title {
+  font-size: 22px;
+  line-height: 24px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  margin: 0 0 10px 0;
+  padding: 0 0 0 10px;
+}
+.div07 .div07__list .item .text {
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 18px;
+  margin: 0 0 20px 0;
+  padding: 0 0 0 10px;
+}
+.div07 .div07__list .item .result {
+  font-size: 16px;
+  line-height: 25px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  padding: 0 0 0 10px;
+  margin: 0 0 10px 0;
+  background: url(../../instagram/instagram/div07-result.jpg) no-repeat -12px -8px;
+}
+.div07 .div07__list .item .subtitle {
+  padding: 0 0 0 10px;
+  font-size: 16px;
+  line-height: 18px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+}
+.div07 .div07__list .item.item-1 {
+  background: url(../../instagram/instagram/div07-item1.jpg) no-repeat 0 20px;
+}
+.div07 .div07__list .item.item-2 {
+  background: url(../../instagram/instagram/div07-item2.jpg) no-repeat -20px 20px;
+}
+.div07 .div07__list .item.item-3 {
+  background: url(../../instagram/instagram/div07-item3.jpg) no-repeat -20px 0;
+}
+.div07 .div07__list .item.item-4 {
+  padding-left: 20px;
+  background: url(../../instagram/instagram/div07-item4.jpg) no-repeat -10px 0;
+}
+.div08 * {
+  max-height: 99999px;
+}
+.div08 .div08__title {
+  text-align: center;
+  font-size: 50px;
+  line-height: 52px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  margin: 0 0 20px 0;
+}
+.div08 .div08__list {
+  font-size: 0;
+  width: 960px;
+  margin: 0 auto;
+}
+.div08 .div08__list .item {
+  padding: 210px 0 0 0;
+  margin: 0 0 50px 0;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 25%;
+  display: inline-block;
+  vertical-align: top;
+}
+.div08 .div08__list .item .name {
+  font-size: 14px;
+  line-height: 16px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+}
+.div08 .div08__list .item .text {
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 16px;
+  margin: 0 0 20px 0;
+}
+.div08 .div08__list .item .title {
+  font-size: 18px;
+  line-height: 20px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+}
+.div08 .div08__list .item.item-1 {
+  background: url(../../instagram/instagram/div08-item1.jpg) no-repeat 0 10px;
+  margin-bottom: 20px;
+}
+.div08 .div08__list .item.item-2 {
+  background: url(../../instagram/instagram/div08-item2.jpg) no-repeat 0 15px;
+}
+.div08 .div08__list .item.item-3 {
+  background: url(../../instagram/instagram/div08-item3.jpg) no-repeat 0 10px;
+}
+.div08 .div08__list .item.item-4 {
+  background: url(../../instagram/instagram/div08-item4.jpg) no-repeat 0 10px;
+}
+.div08 .div08__list .item.item-5 {
+  background: url(../../instagram/instagram/div08-item5.jpg) no-repeat 0 15px;
+}
+.div08 .div08__list .item.item-6 {
+  background: url(../../instagram/instagram/div08-item6.jpg) no-repeat 0 0;
+}
+.div08 .div08__list .item.item-7 {
+  background: url(../../instagram/instagram/div08-item7.jpg) no-repeat 0 10px;
+}
+.div08 .div08__list .item.item-8 {
+  background: url(../../instagram/instagram/div08-item8.jpg) no-repeat 0 5px;
+}
+.div08 .div08__list .item.item-9 {
+  background: url(../../instagram/instagram/div08-item9.jpg) no-repeat 0 10px;
+}
+.div08 .div08__list .item.item-10 {
+  background: url(../../instagram/instagram/div08-item10.jpg) no-repeat 0 10px;
+}
+.div08 .div08__list .item.item-11 {
+  background: url(../../instagram/instagram/div08-item11.jpg) no-repeat 0 0;
+}
+.div08 .div08__list .item.item-12 {
+  background: url(../../instagram/instagram/div08-item12.jpg) no-repeat 0 20px;
+}
+.div08 .div08__list .item.item-13 {
+  background: url(../../instagram/instagram/rimma_nuyanzina.png) -5px 4px no-repeat;
+}
+.div09 {
+  padding: 100px 0 0 0;
+}
+.div09 * {
+  max-height: 99999px;
+}
+.div09 .div09__title {
+  text-align: center;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 50px;
+  line-height: 52px;
+  padding: 0 0 20px 0;
+  margin: 0 0 45px 0;
+  background: url(../../instagram/instagram/div09-title.png) no-repeat 50% 100%;
+}
+.div09 .div09__course {
+  position: absolute;
+  left: 50%;
+  top: -18px;
+  margin-left: 185px;
+  padding: 5px 10px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 18px;
+  background: url(../../instagram/instagram/div09-course.png) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson {
+  padding: 0 0 0 80px;
+  position: relative;
+  margin: 0 0 80px 0;
+}
+.div09 .div09__list .lesson .info {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.div09 .div09__list .lesson .info .number {
+  width: 64px;
+  height: 60px;
+  padding: 7px 0 0 0;
+  text-align: center;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 12px;
+  line-height: 12px;
+  margin: 0 0 10px 0;
+  background: url(../../instagram/instagram/div09-number.png) no-repeat 0 -1px;
+}
+.div09 .div09__list .lesson .info .number span {
+  font-size: 50px;
+  line-height: 40px;
+}
+.div09 .div09__list .lesson .info .date {
+  text-align: center;
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 12px;
+  line-height: 14px;
+  color: #00d490;
+}
+.div09 .div09__list .lesson .title {
+  font-size: 32px;
+  line-height: 36px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  margin: 0 0 10px 0;
+}
+.div09 .div09__list .lesson .tooltip {
+  padding: 20px 0 0 33px;
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 12px;
+  line-height: 14px;
+  background: url(../../instagram/instagram/div09-tooltip.png) no-repeat 0 0;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.div09 .div09__list .lesson .timeline {
+  margin: 0 0 25px 0;
+  background: url(../../instagram/instagram/div09-item1.jpg) no-repeat 100% 0;
+  padding: 15px 0 10px 0;
+}
+.div09 .div09__list .lesson .timeline .text {
+  font-size: 14px;
+  line-height: 16px;
+  margin: 0 0 15px 0;
+}
+.div09 .div09__list .lesson .slider {
+  width: 490px;
+  height: 470px;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 1px solid #dedede;
+  position: relative;
+  float: left;
+  margin: 0 65px 10px 0;
+}
+.div09 .div09__list .lesson .slider .prev {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  top: 50%;
+  margin-top: -35px;
+  left: -35px;
+  background: url(../../instagram/instagram/div09-left.png) no-repeat 50% 50%;
+  cursor: pointer;
+}
+.div09 .div09__list .lesson .slider .next {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  top: 50%;
+  margin-top: -35px;
+  right: -35px;
+  background: url(../../instagram/instagram/div09-right.png) no-repeat 50% 50%;
+  cursor: pointer;
+}
+.div09 .div09__list .lesson .slider .list {
+  height: 100%;
+}
+.div09 .div09__list .lesson .slider .list .item {
+  height: 100%;
+  display: none;
+}
+.div09 .div09__list .lesson .slider .list .item.active {
+  display: block;
+}
+.div09 .div09__list .lesson .result {
+  margin: 0 0 30px 555px;
+}
+.div09 .div09__list .lesson .result .result-title {
+  padding: 5px 15px;
+  margin: 0 0 10px 10px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 22px;
+  line-height: 24px;
+  background: url(../../instagram/instagram/div09-result-title.png) no-repeat -10px 50%;
+}
+.div09 .div09__list .lesson .result ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.div09 .div09__list .lesson .result ul li {
+  padding: 0 0 0 25px;
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 18px;
+  background: url(../../instagram/instagram/div09-result-li.png) no-repeat 0 4px;
+  margin: 0 0 10px 0;
+}
+.div09 .div09__list .lesson .files {
+  margin: 0 0 0 555px;
+}
+.div09 .div09__list .lesson .files .files-title {
+  padding: 15px 18px;
+  margin: 0 0 5px 10px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 22px;
+  line-height: 24px;
+  background: url(../../instagram/instagram/div09-files.png) no-repeat -10px 50%;
+}
+.div09 .div09__list .lesson .files .li {
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 18px;
+  margin: 0 0 10px 28px;
+}
+.div09 .div09__list .lesson .speakers {
+  clear: both;
+}
+.div09 .div09__list .lesson .speakers .speakers-title {
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 24px;
+}
+.div09 .div09__list .lesson .speakers .speaker-item {
+  display: inline-block;
+  vertical-align: top;
+  width: 100px;
+  position: relative;
+  padding: 10px 0 0 0;
+}
+.div09 .div09__list .lesson .speakers .speaker-item .speaker-image {
+  width: 61px;
+  height: 70px;
+  display: block;
+}
+.div09 .div09__list .lesson .speakers .speaker-item .speaker-image.rimma {
+  width: 74px;
+  height: 71px;
+}
+.div09 .div09__list .lesson .speakers .speaker-item .speaker-name {
+  font-size: 12px;
+  line-height: 15px;
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  padding: 6px 0 0 5px;
+}
+.div09 .div09__list .lesson.lesson-1 .slider .item-1 {
+  background: url(../../instagram/instagram/div09-slide1.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-1 .slider .item-2 {
+  background: url(../../instagram/instagram/div09-slide1-2.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-1 .slider .item-3 {
+  background: url(../../instagram/instagram/div09-slide1-3.jpg) no-repeat 50% 20px;
+}
+.div09 .div09__list .lesson.lesson-1 .slider .item-4 {
+  background: url(../../instagram/instagram/div09-slide1-4.jpg) no-repeat 50% 20px;
+}
+.div09 .div09__list .lesson.lesson-2 .timeline {
+  background: url(../../instagram/instagram/div09-item2.jpg) no-repeat 100% -33px;
+}
+.div09 .div09__list .lesson.lesson-2 .slider .item-1 {
+  background: url(../../instagram/instagram/div09-slide2.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-2 .slider .item-2 {
+  background: url(../../instagram/instagram/div09-slide2-2.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-2 .slider .item-3 {
+  background: url(../../instagram/instagram/div09-slide2-3.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-3 .timeline {
+  background: url(../../instagram/instagram/div09-item3.jpg) no-repeat 100% 0;
+}
+.div09 .div09__list .lesson.lesson-3 .slider .item-1 {
+  background: url(../../instagram/instagram/div09-slide3.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-3 .slider .item-2 {
+  background: url(../../instagram/instagram/div09-slide3-2.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-3 .slider .item-3 {
+  background: url(../../instagram/instagram/div09-slide3-3.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-3 .slider .item-4 {
+  background: url(../../instagram/instagram/div09-slide3-4.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-3 .slider .item-5 {
+  background: url(../../instagram/instagram/div09-slide3-5.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-4 .timeline {
+  background: url(../../instagram/instagram/div09-item4.jpg) no-repeat 100% 0;
+}
+.div09 .div09__list .lesson.lesson-4 .slider .item-1 {
+  background: url(../../instagram/instagram/div09-slide4.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-4 .slider .item-2 {
+  background: url(../../instagram/instagram/div09-slide4-2.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-5 .timeline {
+  background: url(../../instagram/instagram/div09-item5.jpg) no-repeat 100% 0;
+}
+.div09 .div09__list .lesson.lesson-5 .slider .item-1 {
+  background: url(../../instagram/instagram/div09-slide5.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-5 .slider .item-2 {
+  background: url(../../instagram/instagram/div09-slide5-2.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-6 .timeline {
+  background: url(../../instagram/instagram/div09-item6.jpg) no-repeat 100% 15px;
+}
+.div09 .div09__list .lesson.lesson-6 .slider .item-1 {
+  background: url(../../instagram/instagram/div09-slide6.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-6 .slider .item-2 {
+  background: url(../../instagram/instagram/div09-slide6-2.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-6 .slider .item-3 {
+  background: url(../../instagram/instagram/div09-slide6-3.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-7 .timeline {
+  background: url(../../instagram/instagram/div09-item7.jpg) no-repeat 100% 15px;
+}
+.div09 .div09__list .lesson.lesson-7 .slider .item-1 {
+  background: url(../../instagram/instagram/div09-slide7.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-7 .slider .item-2 {
+  background: url(../../instagram/instagram/div09-slide7-2.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-7 .slider .item-3 {
+  background: url(../../instagram/instagram/div09-slide7-3.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-8 .timeline {
+  background: url(../../instagram/instagram/div09-item8.jpg) no-repeat 100% 10px;
+}
+.div09 .div09__list .lesson.lesson-8 .slider .item-1 {
+  background: url(../../instagram/instagram/div09-slide8.jpg) no-repeat 50% 50%;
+}
+.div09 .div09__list .lesson.lesson-8 .slider .item-2 {
+  background: url(../../instagram/instagram/div09-slide8-2.jpg) no-repeat 50% 50%;
+}
+.div10 {
+  margin: 0 0 100px 0;
+}
+.div10 * {
+  max-height: 99999px;
+}
+.div10 .div10__title {
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 50px;
+  line-height: 52px;
+  padding: 10px 0;
+  background: url(../../instagram/instagram/div10-title.jpg) no-repeat 50% 5px;
+  text-align: center;
+  margin: 0 0 10px 0;
+}
+.div10 .div10__list {
+  text-align: center;
+  font-size: 0;
+  padding: 0 0 70px 0;
+  background: url(../../instagram/instagram/div10-list.jpg) no-repeat 50% 100%;
+  margin: 0 0 10px 0;
+}
+.div10 .div10__list .item {
+  font-size: 20px;
+  line-height: 24px;
+  padding: 125px 0 0 0;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  width: 260px;
+  display: inline-block;
+  vertical-align: top;
+}
+.div10 .div10__list .item.item-1 {
+  background: url(../../instagram/instagram/div10-item1.jpg) no-repeat 50% 0;
+}
+.div10 .div10__list .item.item-2 {
+  background: url(../../instagram/instagram/div10-item2.jpg) no-repeat 50% 15px;
+}
+.div10 .div10__list .item.item-3 {
+  background: url(../../instagram/instagram/div10-item3.jpg) no-repeat 50% 10px;
+}
+.div10 .div10__list .item.item-4 {
+  background: url(../../instagram/instagram/div10-item4.jpg) no-repeat 50% 20px;
+}
+.div10 .div10__list .item.item-5 {
+  background: url(../../instagram/instagram/div10-item5.jpg) no-repeat 50% 30px;
+}
+.div10 .div10__subtitle {
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 50px;
+  line-height: 52px;
+  text-align: center;
+  margin: 0 0 20px 0;
+}
+.div10 .div10__text {
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 32px;
+  line-height: 42px;
+  text-align: center;
+  margin: 0 0 40px 0;
+  padding: 0 0 10px 0;
+  background: url(../../instagram/instagram/div10-text.jpg) no-repeat 50% 55px;
+}
+.div11 {
+  margin: 0 0 100px 0;
+}
+.div11 * {
+  max-height: 99999px;
+}
+.div11 .container {
+  width: 900px;
+  margin: 0 auto;
+  background: url(../../instagram/instagram/div11.jpg) no-repeat 100% 100%;
+  padding: 0 0 10px 0;
+}
+.div11 .div11__title {
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 50px;
+  line-height: 52px;
+  margin: 0 0 60px 0;
+}
+.div11 .div11__subtitle {
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 22px;
+  margin: 0 0 15px 0;
+}
+.div11 .div11__text {
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 22px;
+  margin: 0 0 15px 0;
+}
+.div12 {
+  margin: 0 0 50px 0;
+}
+.div12 * {
+  max-height: 99999px;
+}
+.div12 .container {
+  width: 830px;
+  margin: 0 auto;
+  padding: 0 0 60px 0;
+  background: url(../../instagram/instagram/div12.jpg) no-repeat 0 100px;
+}
+.div12 .div12__title {
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+  font-size: 50px;
+  line-height: 52px;
+  padding: 10px 0;
+  background: url(../../instagram/instagram/div12-title.jpg) no-repeat 100% 0;
+  margin: 0 0 35px 0;
+}
+.div12 .div12__list {
+  padding: 0 0 0 485px;
+  margin: 0 0 30px 0;
+}
+.div12 .div12__list .item {
+  padding: 0 0 0 60px;
+  position: relative;
+  margin: 0 0 20px 0;
+}
+.div12 .div12__list .item span {
+  display: block;
+  width: 53px;
+  height: 40px;
+  font-size: 30px;
+  line-height: 40px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+  background: url(../../instagram/instagram/div12-number.jpg) no-repeat 50% 50%;
+  position: absolute;
+  top: 3px;
+  left: 0;
+}
+.div12 .div12__list .item .title {
+  font-size: 16px;
+  line-height: 18px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+}
+.div12 .div12__list .item .text {
+  font-size: 16px;
+  line-height: 18px;
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+}
+.div12 .div12__account {
+  padding: 0 0 0 485px;
+  background: url(../../instagram/instagram/div12-account.jpg) no-repeat 100% 0;
+}
+.div12 .div12__account .div12__account-text {
+  padding: 172px 0 0 100px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 26px;
+}
+.div13 {
+  margin: 0 0 70px 0;
+}
+.div13 * {
+  max-height: 99999px;
+}
+.div13 .container {
+  background: url(../../instagram/instagram/div13.jpg) no-repeat 35% 0;
+}
+.div13 .div13__title {
+  font-size: 50px;
+  line-height: 52px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+  margin: 0 0 190px 0;
+}
+.div13 .div13__list {
+  font-size: 0;
+  text-align: center;
+}
+.div13 .div13__list .item {
+  text-align: left;
+  width: 300px;
+  position: relative;
+  left: 40px;
+  display: inline-block;
+  vertical-align: top;
+}
+.div13 .div13__list .item .title {
+  font-size: 28px;
+  line-height: 30px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  margin: 0 0 5px 0;
+}
+.div13 .div13__list .item .text {
+  font-size: 16px;
+  line-height: 18px;
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  margin: 0 0 10px 0;
+}
+.div13 .div13__list .item .old-price {
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 20px;
+  text-decoration: line-through;
+  margin: 0 0 5px 0;
+}
+.div13 .div13__list .item .price {
+  font-size: 28px;
+  line-height: 30px;
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+}
+.div14 * {
+  max-height: 99999px;
+}
+.div14 .div14__subtitle {
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 20px;
+  text-align: center;
+  margin: 0 0 10px 0;
+}
+.div14 .div14__title {
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 50px;
+  line-height: 52px;
+  margin: 0 0 10px 0;
+  text-align: center;
+}
+.div14 .div-form {
+  width: 620px;
+  padding: 90px 0 0 0;
+  position: relative;
+}
+.div14 .div-form .post ul {
+  width: 310px;
+  margin: 0 auto;
+}
+.div14 .div-form .post ul li:first-child {
+  height: 0;
+  margin: 0;
+  padding: 0;
+}
+.div14 .div-form .form-agreement {
+  width: 310px;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-bottom: 10px !important;
+}
+.div14 .div-form .form-agreement a {
+  text-decoration: underline;
+}
+.div14 .div-form .leftRadio {
+  position: absolute;
+  top: -90px;
+  left: -115px;
+  width: 310px;
+  height: 100px;
+  background: #a6f0d9;
+  border-right: 1px solid #7ed4b9;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 20px 0 0 130px;
+}
+.div14 .div-form .leftRadio label {
+  font-size: 14px !important;
+  line-height: 16px !important;
+  color: #000000 !important;
+}
+.div14 .div-form .leftRadio input {
+  width: 16px !important;
+  height: 16px !important;
+}
+.div14 .div-form .leftRadio .old-price {
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 22px;
+  text-decoration: line-through;
+  text-align: center;
+  margin: 5px 0 0 0;
+}
+.div14 .div-form .leftRadio .price {
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 22px;
+  text-align: center;
+}
+.div14 .div-form .rightRadio {
+  position: absolute;
+  top: -90px;
+  right: -115px;
+  width: 310px;
+  height: 100px;
+  background: #fcf3c5;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 20px 0 0 30px;
+}
+.div14 .div-form .rightRadio label {
+  font-size: 14px !important;
+  line-height: 16px !important;
+  color: #000000 !important;
+}
+.div14 .div-form .rightRadio input {
+  width: 16px !important;
+  height: 16px !important;
+}
+.div14 .div-form .rightRadio .old-price {
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 22px;
+  text-decoration: line-through;
+  text-align: center;
+  margin: 5px 0 0 0;
+}
+.div14 .div-form .rightRadio .price {
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 22px;
+  text-align: center;
+}
+.div-form {
+  width: 400px;
+  background: #f3f1ed;
+  margin: 0 auto;
+  border: none;
+  font-family: Helvetica, sans-serif;
+}
+.div-form * {
+  max-height: 99999px;
+}
+.div-form .container {
+  width: auto;
+}
+.div-form .post {
+  width: auto;
+  padding: 0;
+  margin: 0;
+}
+.div-form .post ul {
+  margin: 0;
+  padding: 30px 40px 47px 40px;
+  position: relative;
+}
+.div-form .b_form_content {
+  width: auto;
+  border-radius: 0;
+  padding: 0;
+  margin: 0 auto;
+  box-shadow: none;
+  background: none;
+}
+.div-form .b_form_content .div-form__title {
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #592e51;
+  margin: 0 0 10px 0;
+}
+.div-form .b_form_content ul li .field_name {
+  font-size: 14px;
+  line-height: 16px;
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  margin: 5px 0 5px 0;
+  color: #000000;
+  clear: both;
+}
+.div-form .b_form_content ul li .field_option input {
+  font-size: 14px;
+  line-height: 45px;
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  width: 100%;
+  height: 45px;
+  margin: 1px 0 3px 0;
+  padding: 5px 15px 5px 15px;
+  text-align: left;
+  background: #ffffff;
+  color: #232323;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  border-radius: 3px;
+  border: 1px solid #ffffff;
+}
+.div-form .b_form_content ul li .field_option input.pre {
+  width: 15%;
+}
+.div-form .b_form_content ul li .field_option input.code {
+  width: 25%;
+  margin: 1px 0 3px 2%;
+  padding: 5px 15px 5px 15px;
+}
+.div-form .b_form_content ul li .field_option input.num {
+  width: 56%;
+  margin: 1px 0 3px 2%;
+  padding: 5px 15px 5px 15px;
+}
+.div-form .b_form_content ul li .leftRadio,
+.div-form .b_form_content ul li .rightRadio {
+  display: block;
+  float: left;
+  clear: left;
+  margin: 0 0 5px 0;
+  color: #592e51;
+}
+.div-form .b_form_content ul li .leftRadio label,
+.div-form .b_form_content ul li .rightRadio label {
+  display: inline-block;
+  vertical-align: top;
+  margin: 4px 0 0 0;
+  font-size: 18px;
+  line-height: 20px;
+  color: #656565;
+}
+.div-form .b_form_content ul li .leftRadio input[type="radio"],
+.div-form .b_form_content ul li .rightRadio input[type="radio"] {
+  margin: 5px 3px 0 0;
+  width: 20px;
+  height: 20px;
+}
+.div-form .b_form_content ul li .rightRadio {
+  margin: 0 0 15px 0;
+}
+.div-form .b_form_content ul li.sbm {
+  padding: 0;
+  position: absolute;
+  bottom: -28px;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+.div-form .b_form_content ul li:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+.div-form .b_form_content ul li:first-child {
+  padding: 0 0 5px 0;
+}
+.div-form .b_form_content .btn_yellow.xlarge {
+  width: auto;
+  height: 67px;
+  border-bottom: 7px solid #b20f7a;
+  display: inline-block;
+  vertical-align: top;
+  font-size: 20px;
+  line-height: 57px;
+  font-family: "Roboto Black";
+  font-weight: normal;
+  font-style: normal;
+  opacity: 0.8;
+  border-radius: 3px;
+  -ms-transition: opacity 600ms cubic-bezier(0.215,0.610,0.355,1.000);
+  -o-transition: opacity 600ms cubic-bezier(0.215,0.610,0.355,1.000);
+  -moz-transition: opacity 600ms cubic-bezier(0.215,0.610,0.355,1.000);
+  -webkit-transition: opacity 600ms cubic-bezier(0.215,0.610,0.355,1.000);
+  transition: opacity 600ms cubic-bezier(0.215,0.610,0.355,1.000);
+  padding: 0 40px;
+  text-align: center;
+  background: #e90e9e;
+  color: #ffffff;
+  cursor: pointer;
+  text-transform: uppercase;
+  width: 320px;
+}
+.div-form .b_form_content .btn_yellow.xlarge:hover {
+  opacity: 1;
+}
+.div-form .b_form_content .form-agreement {
+  margin: 45px 0 0 0;
+  padding: 0 15px 0 15px;
+}
+.div-form .b_form_content .form-agreement .form-agreement__label {
+  color: #262626;
+}
+.div-form .b_form_content .form-agreement .form-agreement__label a {
+  color: #262626;
+  text-decoration: underline;
+}
+.div01 > .container {
+  background: none;
+}
+.div01 .div-form {
+  z-index: 2;
+}
+.div01 > .container:before {
+  width: 226px;
+  height: 177px;
+  content: '';
+  display: block;
+  background: url(../../instagram/instagram/div01.png) no-repeat 0 0;
+  right: -15px;
+  top: 55px;
+  position: absolute;
+  z-index: 3;
+}
+.div04 .div04__list .item.item-3 .status {
+  margin-bottom: 90px;
+}
+.div04 .div04__list {
+  margin-bottom: 40px;
+}
+.div01 .div01__title {
+  line-height: 120px;
+}
+.div13 .div13__list .item .old-price {
+  color: #999999;
+}
+.div-form .b_form_content ul li .leftRadio label,
+.div-form .b_form_content ul li .rightRadio label {
+  font-family: "Roboto Bold";
+}
+.div01 .div01__start {
+  text-align: center;
+}
+.div-form .b_form_content .form-agreement {
+  padding: 0 45px 10px 45px;
+}
+.div01 .div01__video {
+  margin: 40px 0 0 90px;
+}
+.div20 {
+  width: 900px;
+  margin: auto;
+  padding: 0 0 80px 0;
+}
+.div20 .container {
+  width: 900px;
+}
+.div20 * {
+  max-height: 99999px;
+}
+.div20 .div20__title {
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  padding: 0 0 40px 0;
+}
+.div20 .div20__title .green {
+  background: #a0f0d7;
+  padding: 0 6px 3px 6px;
+}
+.div20 .div20__text {
+  font-family: "Roboto Regular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 19px;
+  width: 380px;
+  float: left;
+  padding: 0 0 60px 0;
+  font-style: italic;
+}
+.div20 .div20__text .strong {
+  font-family: "Roboto Bold";
+  font-weight: normal;
+  font-style: normal;
+}
+.div20 .div20__text .green {
+  display: block;
+  background: #a0f0d7;
+  padding: 6px 6px 6px 6px;
+}
+.div20 .div20__text .pink {
+  display: block;
+  background: #ffc3ed;
+  padding: 6px 6px 6px 6px;
+}
+.div20 .div20__img {
+  width: 512px;
+  height: 512px;
+  float: right;
+  background: url(../../instagram/instagram/div20.jpg) 0 40px no-repeat;
+}
+.div20 .button {
+  width: auto;
+  padding: 0 30px 0 30px;
+}
